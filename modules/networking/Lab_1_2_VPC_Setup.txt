@@ -1,0 +1,35 @@
+VPC ID: vpc-02b344e507a610a29
+CIDR: 10.0.0.0/16
+
+public subnet ID: subnet-009b1b5bc44d30e7e
+Public Subnet CIDR: 10.0.1.0/24
+
+Private Subnet 1A ID: subnet-074761e41217dd593
+Private Subnet 1A CIDR: 10.0.2.0/24
+
+Private Subnet 1B ID: subnet-006058e9ab1ae369d
+Private Subnet 1B CIDR: 10.0.3.0/24
+
+Internet Gateway ID: igw-0e20ed69ec17476e6
+
+Elastic IP Address: 52.20.225.52
+Allocation ID: eipalloc-0134e22eb748a0e30
+
+NAT Gateway ID: nat-01c78b616c04164f3
+Elastic IP: 52.20.225.52
+
+Public Route Table ID: rtb-0d39f5214b0e03463
+
+Private Route Table ID: rtb-09cc00433d171db68
+
+public nat-sg ID: sg-06a05e0ca5e2a8149
+
+private-compute-sg ID: sg-04334106af69b44aa
+
+sg-private-db ID:sg-03786bdfe76672a3c
+
+S3 Endpoint ID:vpce-071890d3b5a6bed76
+
+DynamoDB Endpoint ID:vpce-0be5239e10fdc28a2
+
+Secrets Manager Endpoint ID:vpce-0845ed7883216511e
